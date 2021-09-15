@@ -1,4 +1,4 @@
-# BEM-VINDO AO GAMEFLIX:video_game:#
+# BEM-VINDO AO GAMEFLIX:video_game:
 
 # Aqui você tem acesso a um catalogo de games completos!#
 
